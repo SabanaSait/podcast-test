@@ -1,0 +1,15 @@
+title: Test feed
+subtitle: learning
+description: decsription
+language: en-us
+image:  /bot.jpg
+link: https://sabanasait.github.io/podcast-test
+item:
+  - title: item title
+    description: test descript
+    file: /audio/test.mp3
+    length: 100,230
+  - title: item2
+    description: descript 2
+    file: /audio/test.mp3
+    length: 200,320
