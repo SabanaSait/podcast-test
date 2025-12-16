@@ -2,7 +2,7 @@ title: Test feed
 subtitle: learning
 description: decsription
 language: en-us
-image:  '/bot.jpg'
+image:  bot.jpg
 link: https://sabanasait.github.io/podcast-test
 item:
   - title: item title
